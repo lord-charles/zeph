@@ -1,1 +1,1 @@
-export const base_url = "https://sparkling-pleat-worm.cyclic.cloud/";
+export const base_url = "https://lime-nervous-oyster.cyclic.app/";
