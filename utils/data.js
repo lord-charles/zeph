@@ -29,7 +29,7 @@ export const packages = [
 
   {
     speed: "5",
-    price: "26",
+    price: "25",
     devices: "2",
     streaming: "720p",
     period: "40Gb",
@@ -92,7 +92,7 @@ export const packages2 = [
   },
   {
     speed: "10",
-    price: "4",
+    price: "24",
     devices: "2",
     period: "6Gb",
     shared: false,
